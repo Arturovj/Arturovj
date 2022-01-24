@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Arturo Vivar,
 
-I am Arturo Vivar, a lover of computers, music and programming/coding.
+ a lover of computers, music and programming/coding.
 
 <h4>Programming Languages</h4>
 <p>
