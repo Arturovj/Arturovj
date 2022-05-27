@@ -4,7 +4,7 @@
  
  MY PORTFOLIO :) https://portfolio-lime-six-39.vercel.app/
  
- working right now on Tesla web: https://tesla-vert.vercel.app/
+ Working right now on Tesla web: https://tesla-vert.vercel.app/
 
 <h4>Programming Languages</h4>
 <p>
