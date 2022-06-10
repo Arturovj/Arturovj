@@ -2,7 +2,7 @@
 
  a lover of computers, music and programming/coding.
  
- MY PORTFOLIO :) https://portfolio-lime-six-39.vercel.app/
+ MY PORTFOLIO :) https://portfolio-lime-six-39.vercel.app/ Updated 11/06/2022
  
  Working right now on Tesla web3: https://tesla-vert.vercel.app/
  and NFT collection Cyberpvnkers: https://cyberpvnkers.vercel.app/
