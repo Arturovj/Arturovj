@@ -6,7 +6,7 @@
  
  Working right now on Tesla web3: https://tesla-vert.vercel.app/
  , NFT collection Cyberpvnkers: https://cyberpvnkers.vercel.app/
- and in https://github.com/Arturovj/Attorney-web3
+ and in https://github.com/Arturovj/Attorney-web3 !
  
 
 <h4>Programming Languages</h4>
