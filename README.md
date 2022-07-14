@@ -6,7 +6,6 @@ I am Arturo Vivar,
  MY PORTFOLIO :) https://portfolio-lime-six-39.vercel.app/ Updated 13/07/2022
  
  Working right now on Tesla web3: https://tesla-vert.vercel.app/
- , NFT collection Cyberpvnkers: https://cyberpvnkers.vercel.app/
  and in PORSCHE APP https://porsche-arturo-vivar.vercel.app/ !!!!
  
 
